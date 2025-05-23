@@ -1,0 +1,16 @@
+{
+  "projectName": "Fitness Tracker App",
+  "client": "React",
+  "server": "Node.js with Express",
+  "database": "MongoDB",
+  "features": [
+    "User authentication",
+    "Workout management",
+    "Responsive design"
+  ],
+  "deployment": {
+    "client": "Vercel",
+    "server": "Render",
+    "url": "https://your-vercel-app-url.vercel.app"
+  }
+}
